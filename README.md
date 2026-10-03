@@ -1,4 +1,4 @@
-# CHẠM VÀO HỒN VIỆT: Website thương mại điện tử gốm Bát Tràng
+# CHẠM VÀO HỒN VIỆT - Website thương mại điện tử gốm Bát Tràng
 
 Website mô phỏng cho bài tập thương mại điện tử, giới thiệu và bán sản phẩm gốm Bát Tràng thiết kế hiện đại.
 
