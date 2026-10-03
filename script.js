@@ -35,7 +35,7 @@ const vnd=n=>n.toLocaleString("vi-VN")+"đ";
 const $=id=>document.getElementById(id);
 
 /* ---------- Trang chủ ---------- */
-$("heroArt").innerHTML=art({ten:"",dang:"binh",mau:"#f1f3ef",vien:"#c9a24b"});
+$("heroArt").innerHTML=art({ten:"",dang:"binh",mau:"#1d3b6e",vien:"#d9b85f"});
 
 /* ---------- Danh mục + lọc ---------- */
 let loc="Tất cả";
